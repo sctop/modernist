@@ -4,10 +4,10 @@ Gem::Specification.new do |s|
   s.name          = "jekyll-theme-modernist"
   s.version       = "0.1.0"
   s.license       = "CC0-1.0"
-  s.authors       = ["Steve Smith", "GitHub, Inc."]
-  s.email         = ["opensource+jekyll-theme-modernist@github.com"]
-  s.homepage      = "https://github.com/pages-themes/modernist"
-  s.summary       = "Modernist is a Jekyll theme for GitHub Pages"
+  s.authors       = ["童年是个风筝", "cnfast.top"]
+  s.email         = ["2094880085@qq.com"]
+  s.homepage      = "https://zizhu.cnfast.top/"
+  s.summary       = "这里是cnfast.top的专属资助站，请资助我让我产生更多更好的文章！"
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
     f.match(%r{^((_includes|_layouts|_sass|assets)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)

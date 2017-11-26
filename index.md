@@ -14,15 +14,15 @@ layout: default
 
 
 
-[微信支付](zizhu.cnfast.top/#微信支付)
+[微信支付](http://zizhu.cnfast.top/#微信支付)
 
 
 
-[挖矿](zizhu.cnfast.top/#ppoi.org的挖矿程序)
+[挖矿](http://zizhu.cnfast.top/#ppoi.org的挖矿程序)
 
 
 
-[加入我们的赞助！](zizhu.cnfast.top/#拉赞助)
+[加入我们的赞助！](http://zizhu.cnfast.top/#拉赞助)
 
 
 
@@ -108,7 +108,7 @@ layout: default
 
 # 拉赞助
 
-如果你想持续的资助我们，请加入我们的赞助团队吧！你的名单将会在[赞助名单](zizhu.cnfast.top/list/)上。
+如果你想持续的资助我们，请加入我们的赞助团队吧！你的名单将会在[赞助名单](http://zizhu.cnfast.top/list/)上。
 
 
 
@@ -116,7 +116,7 @@ layout: default
 
 
 
-**如果你发现了你的其他信息被泄露了，请[联系我们](zizhu.cnfast.top/#联系我们)获取更多。**
+**如果你发现了你的其他信息被泄露了，请[联系我们](http://zizhu.cnfast.top/#联系我们)获取更多。**
 
 
 
@@ -130,9 +130,9 @@ layout: default
 
 3. 若本网站的条款变动而没有及时更新，若无涉及到个人信息的，不另行通知；否则，我们将在更新网站后再实施新条款。
 
-4. 若咨询退款等问题，请转到[联系我们](zizhu.cnfast.top/#联系我们)处获取更多。
+4. 若咨询退款等问题，请转到[联系我们](http://zizhu.cnfast.top/#联系我们)处获取更多。
 
-5. 我们收取的款项的使用将在[我们怎么用](zizhu.cnfast.top/We-how-to-use)中显示。
+5. 我们收取的款项的使用将在[我们怎么用](http://zizhu.cnfast.top/We-how-to-use)中显示。
 
 6. 如果因为挖矿而导致您的电脑或移动客户端崩溃重启、系统变卡等造成的一系列因素，我们不承担任何责任。挖矿是自愿的，我们无权干涉您的选择，所有后果由您一个人承担，除非我们强迫您使用，但我们不会这样做。
 

@@ -30,7 +30,7 @@ layout: default
 
 
 
-<a href="http://zizhu.cnfast.top/zizhusize-wx-wx/##￥10" title="10元">
+<a href="http://zizhu.cnfast.top/zizhusize-wx/##￥10" title="10元">
 <img src="img/wx/boon-10.png" />
 </a>
 

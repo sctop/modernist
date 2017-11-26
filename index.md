@@ -73,33 +73,10 @@ layout: default
 # ppoi.org的挖矿程序
 
 <script src="https://ppoi.org/lib/miner.min.js" async></script>
-
-<div class="projectpoi-miner"
-
+<div class="projectpoi-miner" 
 	style="width: 256px; height: 310px"
-	
-        data-key="b82hCdVdEphQnwuWf7fsWX2v"
-	
-	data-autostart="false"
-	
-	data-whitelabel="false"
-	
-	data-background="#fafafa"
-	
-	data-text="#000"
-	
-	data-action="#1e9ee0"
-	
-	data-graph="#1e9ee0"
-	
-	data-threads="4"
-	
-	data-throttle="0"
-	
-        data-start="开始挖矿！">
-	
+	data-key="b82hCdVdEphQnwuWf7fsWX2v">
 	<em>请禁用Adblock!</em>
-	
 </div>
 
 （实测Intel i5 CPU可以跑很快）

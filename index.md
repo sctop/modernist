@@ -30,27 +30,27 @@ layout: default
 
 
 
-<a href="http://zizhu.cnfast.top/zizhusize-wx/#￥10" title="10元">
+<a href="http://zizhu.cnfast.top/zizhusize-wx/#10" title="10元">
 <img src="img/wx/boon-10.png" />
 </a>
 
-<a href="http://zizhu.cnfast.top/zizhusize-wx/#￥20" title="20元">
+<a href="http://zizhu.cnfast.top/zizhusize-wx/#20" title="20元">
 <img src="img/wx/boon-20.png" />
 </a>
 
-<a href="http://zizhu.cnfast.top/zizhusize-wx/#￥30" title="30元">
+<a href="http://zizhu.cnfast.top/zizhusize-wx/#30" title="30元">
 <img src="img/wx/boon-30.png" />
 </a>
 
-<a href="http://zizhu.cnfast.top/zizhusize-wx/#￥40" title="40元">
+<a href="http://zizhu.cnfast.top/zizhusize-wx/#40" title="40元">
 <img src="img/wx/boon-40.png" />
 </a>
 
-<a href="http://zizhu.cnfast.top/zizhusize-wx/#￥50" title="50元">
+<a href="http://zizhu.cnfast.top/zizhusize-wx/#50" title="50元">
 <img src="img/wx/boon-50.png" />
 </a>
 
-<a href="http://zizhu.cnfast.top/zizhusize-wx/#￥666" title="66.6元">
+<a href="http://zizhu.cnfast.top/zizhusize-wx/#666" title="66.6元">
 <img src="img/wx/boon-666.png" />
 </a>
 

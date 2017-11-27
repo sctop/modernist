@@ -11,8 +11,8 @@ QQ：请加2094880085为QQ好友，**好友验证消息：从zizhu.cnfast.top上
  
 **微信转账渠道：**
  
-<h2 id="￥10">
-	<p>10</p>
+<h2 id="10">
+		<p>￥10</p>
 </h2>
 
 请先阅读[许可条款](http://zizhu.cnfast.top/#部分事项)后再支付
@@ -20,7 +20,7 @@ QQ：请加2094880085为QQ好友，**好友验证消息：从zizhu.cnfast.top上
 ![10](img/wx/10.png)
 
 <h2 id="20">
-	<p>￥20</p>
+		<p>￥20</p>
 </h2>
 
 请先阅读[许可条款](http://zizhu.cnfast.top/#部分事项)后再支付
@@ -28,7 +28,7 @@ QQ：请加2094880085为QQ好友，**好友验证消息：从zizhu.cnfast.top上
 ![20](img/wx/20.png)
 
 <h2 id="30">
-	<p>￥30</p>
+		<p>￥30</p>
 </h2>
 
 请先阅读[许可条款](http://zizhu.cnfast.top/#部分事项)后再支付
@@ -36,7 +36,7 @@ QQ：请加2094880085为QQ好友，**好友验证消息：从zizhu.cnfast.top上
 ![30](img/wx/30.png)
 
 <h2 id="40">
-	<p>￥40</p>
+		<p>￥40</p>
 </h2>
 
 请先阅读[许可条款](http://zizhu.cnfast.top/#部分事项)后再支付
@@ -44,7 +44,7 @@ QQ：请加2094880085为QQ好友，**好友验证消息：从zizhu.cnfast.top上
 ![40](img/wx/40.png)
 
 <h2 id="50">
-	<p>￥50</p>
+		<p>￥50</p>
 </h2>
 
 请先阅读[许可条款](http://zizhu.cnfast.top/#部分事项)后再支付
@@ -52,7 +52,7 @@ QQ：请加2094880085为QQ好友，**好友验证消息：从zizhu.cnfast.top上
 ![50](img/wx/50.png)
 
 <h2 id="666">
-	<p>￥66.6</p>
+		<p>￥66.6</p>
 </h2>
 
 请先阅读[许可条款](http://zizhu.cnfast.top/#部分事项)后再支付
@@ -60,7 +60,7 @@ QQ：请加2094880085为QQ好友，**好友验证消息：从zizhu.cnfast.top上
 ![666](img/wx/666.png)
 
 <h2 id="土豪你好">
-	<p>土豪你好</p>
+		<p>土豪你好</p>
 </h2>
 
 请先阅读[许可条款](http://zizhu.cnfast.top/#部分事项)后再支付
@@ -68,7 +68,7 @@ QQ：请加2094880085为QQ好友，**好友验证消息：从zizhu.cnfast.top上
 ![99](img/wx/99.png)
 
 <h2 id="任意金额">
-	<p>任意金额</p>
+		<p>任意金额</p>
 </h2>
 
 请先阅读[许可条款](http://zizhu.cnfast.top/#部分事项)后再支付

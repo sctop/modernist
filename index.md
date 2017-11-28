@@ -1,5 +1,6 @@
 ---
 layout: page
+title: HOME
 ---
 
 # 欢迎访问cnfast.top的资助站点！

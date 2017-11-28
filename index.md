@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 # 欢迎访问cnfast.top的资助站点！

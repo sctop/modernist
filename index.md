@@ -4,14 +4,13 @@ title: HOME
 ---
 
 # 欢迎访问cnfast.top的资助站点！
+# cnfast.top是zhangqirun.cn的前身，现已弃用cnfast.top
 
 # 如果你想赞助我们，请通过以下渠道选择：
 
 快捷通道：
 
 [微信支付](http://zizhu.cnfast.top/#微信支付)
-
-[挖矿](http://zizhu.cnfast.top/#ppoi.org的挖矿程序)
 
 [加入我们的赞助！](http://zizhu.cnfast.top/#拉赞助)
 
@@ -50,17 +49,6 @@ title: HOME
 </a>
 
 <p> 别问我为什么那么长 </p>
-
-# ppoi.org的挖矿程序
-
-<script src="https://ppoi.org/lib/miner.min.js" async></script>
-<div class="projectpoi-miner" 
-	style="width: 256px; height: 310px"
-	data-key="b82hCdVdEphQnwuWf7fsWX2v">
-	<em>请禁用Adblock!</em>
-</div>
-
-（实测Intel i5 CPU可以跑很快）
 
 # 拉赞助
 

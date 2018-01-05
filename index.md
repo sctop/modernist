@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "主站点"
 description: "请资助我们！Thanks!"
 ---
 

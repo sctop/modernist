@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HOME
+description: "请资助我们！Thanks!"
 ---
 
 # 欢迎访问cnfast.top的资助站点！

@@ -16,7 +16,7 @@ QQ：请加2094880085为QQ好友，**好友验证消息：从zizhu.cnfast.top上
 		<p>￥10</p>
 </h2>
 
-请先阅读[许可条款](http://zizhu.cnfast.top/#部分事项)后再支付
+请先阅读[许可条款](http://zizhu.zhangqirun.cn/#部分事项)后再支付
 
 ![10](img/wx/10.png)
 
@@ -24,7 +24,7 @@ QQ：请加2094880085为QQ好友，**好友验证消息：从zizhu.cnfast.top上
 		<p>￥20</p>
 </h2>
 
-请先阅读[许可条款](http://zizhu.cnfast.top/#部分事项)后再支付
+请先阅读[许可条款](http://zizhu.zhangqirun.cn/#部分事项)后再支付
 
 ![20](img/wx/20.png)
 
@@ -32,7 +32,7 @@ QQ：请加2094880085为QQ好友，**好友验证消息：从zizhu.cnfast.top上
 		<p>￥30</p>
 </h2>
 
-请先阅读[许可条款](http://zizhu.cnfast.top/#部分事项)后再支付
+请先阅读[许可条款](http://zizhu.zhangqirun.cn/#部分事项)后再支付
 
 ![30](img/wx/30.png)
 
@@ -40,7 +40,7 @@ QQ：请加2094880085为QQ好友，**好友验证消息：从zizhu.cnfast.top上
 		<p>￥40</p>
 </h2>
 
-请先阅读[许可条款](http://zizhu.cnfast.top/#部分事项)后再支付
+请先阅读[许可条款](http://zizhu.zhangqirun.cn/#部分事项)后再支付
 
 ![40](img/wx/40.png)
 
@@ -48,7 +48,7 @@ QQ：请加2094880085为QQ好友，**好友验证消息：从zizhu.cnfast.top上
 		<p>￥50</p>
 </h2>
 
-请先阅读[许可条款](http://zizhu.cnfast.top/#部分事项)后再支付
+请先阅读[许可条款](http://zizhu.zhangqirun.cn/#部分事项)后再支付
 
 ![50](img/wx/50.png)
 
@@ -56,7 +56,7 @@ QQ：请加2094880085为QQ好友，**好友验证消息：从zizhu.cnfast.top上
 		<p>￥66.6</p>
 </h2>
 
-请先阅读[许可条款](http://zizhu.cnfast.top/#部分事项)后再支付
+请先阅读[许可条款](http://zizhu.zhangqirun.cn/#部分事项)后再支付
 
 ![666](img/wx/666.png)
 
@@ -64,7 +64,7 @@ QQ：请加2094880085为QQ好友，**好友验证消息：从zizhu.cnfast.top上
 		<p>土豪你好</p>
 </h2>
 
-请先阅读[许可条款](http://zizhu.cnfast.top/#部分事项)后再支付
+请先阅读[许可条款](http://zizhu.zhangqirun.cn/#部分事项)后再支付
 
 ![99](img/wx/99.png)
 
@@ -72,7 +72,7 @@ QQ：请加2094880085为QQ好友，**好友验证消息：从zizhu.cnfast.top上
 		<p>任意金额</p>
 </h2>
 
-请先阅读[许可条款](http://zizhu.cnfast.top/#部分事项)后再支付
+请先阅读[许可条款](http://zizhu.zhangqirun.cn/#部分事项)后再支付
 
 ![任意](img/wx/other.png)
 

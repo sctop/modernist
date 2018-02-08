@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 # 我们会怎么用？

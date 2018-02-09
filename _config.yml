@@ -6,7 +6,7 @@ theme: jekyll-theme-modernist
 
 # 赞赏功能（此处必须写图片链接）
 alipay: '' # 支付宝
-wechatpay: '/img/wexin.png' # 微信支付（二维码）
+wechatpay: '/img/weixin.png' # 微信支付（二维码）
 wechatcxpay: '' # 微信赞赏码（小程序式）
 qqpay: '' # QQ钱包（二维码）
 # cardpay采用cardnumber的大小（size）来进行确认有没有填写。

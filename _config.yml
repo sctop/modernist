@@ -3,3 +3,20 @@ description: 这里是zhangqirun.cn的资助站。请进行资助以便让此网
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-modernist
+
+# 赞赏功能（此处必须写图片链接）
+alipay: '' # 支付宝
+wechatpay: '/img/wexin.png' # 微信支付（二维码）
+wechatcxpay: '' # 微信赞赏码（小程序式）
+qqpay: '' # QQ钱包（二维码）
+# cardpay采用cardnumber的大小（size）来进行确认有没有填写。
+cardpay:
+  cancardpay: 'false' # 可以进行银行卡转账付款了吗，true或者false
+  cardname: '' # 持卡人姓名
+  cardnumber: '' # 卡号
+# ------------------------------
+
+# 联系方式
+qq: '2094880085'
+mail: '2094880085@qq.com'
+mp: ''
